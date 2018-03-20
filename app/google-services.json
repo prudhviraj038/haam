@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "414077707064",
+    "project_id": "haamtest"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414077707064:android:92c9d0059030c26a",
+        "android_client_info": {
+          "package_name": "com.mamacgroup.hamtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414077707064-hfgdf82oq9fmu0vuap3j7oi1i1cad9jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamacgroup.hamtest",
+            "certificate_hash": "5b11b324983fe1f13f503b83989e54952ff8755c"
+          }
+        },
+        {
+          "client_id": "414077707064-iovaih02afuh6hc1r79us2ndats5dkj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD34nKad5a_MZXTWMi2ETTC9nqhgfnQ-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

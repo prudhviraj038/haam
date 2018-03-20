@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.0.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/1a754fb341cb49e8b22df80495a4a7265152d195/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1a754fb341cb49e8b22df80495a4a7265152d195/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.liuguangqiang.swipeback/library/1.0.2/b8ad09e71674f45323f6cf7d457b21972b5d632/library-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
