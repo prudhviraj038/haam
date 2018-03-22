@@ -93,6 +93,8 @@ public class MultiViewTypeAdapterSectionedChannels extends RecyclerView.Adapter<
         if (object != null) {
 
 
+            
+
             if(object.type.equals("0")){
 
                 ((TextTypeViewHolder) holder).tv.setText(object.header);
