@@ -159,10 +159,10 @@ public class LiveTvFragment extends Fragment {
                     //   Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(news.link));
                     startActivity(webview_activity);
                 } else {
-                    Intent intent = new Intent(getActivity(), JWPlayerViewExample.class);
-                    intent.putExtra("jw_url", categories.get(selected).chanels.get(position).link);
-                    intent.putExtra("name", categories.get(selected).chanels.get(position).get_ch_title(getActivity()));
-                    startActivity(intent);
+//                    Intent intent = new Intent(getActivity(), JWPlayerViewExample.class);
+//                    intent.putExtra("jw_url", categories.get(selected).chanels.get(position).link);
+//                    intent.putExtra("name", categories.get(selected).chanels.get(position).get_ch_title(getActivity()));
+//                    startActivity(intent);
                 }
             }
         });

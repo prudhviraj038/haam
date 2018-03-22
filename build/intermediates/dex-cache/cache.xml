@@ -48,6 +48,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/7694fb542c311818bd71a17fae042528f918093b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f17d114ee87da06c2bfe9ba0b32e49413e186293/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/c2393cae146c561b1af9b39d0de3846125414a51/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -63,6 +72,24 @@
         revision="26.0.0"
         sha1="204f607419af8247cc1b2a61f50663c65f841c12">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9046613c0826629b2fbfe2ee83efda0c124f9c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/5faa1e80f9e8f342d6ebdeaa4b6515da1ad871cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb0709fa8456e59e32864d3325a0ff9197d8546e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/f7c9202cd12896a32ea0ee2a03963a96d15ff0b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcb716303abee870dbb06af2d141c8ea6c280db4">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b76327d43654ab83133939bdae0972c5c624a13/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -111,6 +138,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/f016aa7173404b966a23ac7cc1f97640efecb0a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbaa152983c8170b15e87c7bb956209015a34007/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/Documents/naam project/haam/app/libs/volley.jar"
         jumboMode="true"
         optimize="true"
@@ -126,6 +162,24 @@
         revision="25.0.3"
         sha1="7045152f3bd1870740b9bcb1cddff495e189774e">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_819261c08cdee9abd629e98763ca14517bea2487/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/c1e466aa4be9a3aa5c1f496ee44bcbac720c8bce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7045152f3bd1870740b9bcb1cddff495e189774e">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_819261c08cdee9abd629e98763ca14517bea2487/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Documents/naam project/haam/app/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_e01370ef3cda9aa9df3ccb2d60d875c25d2cdb8c/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -165,6 +219,42 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/ae0a3b90c476719a425d09eab0fd54f2451f7e49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2cd8a383c1ec207804d9af05254de2b4c1703ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/1a754fb341cb49e8b22df80495a4a7265152d195/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2ce37ca3af00f3c2fe692c9a911617a6d5f501b">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9d060a0a0f79286f96c16ee7e6049b9bde30ccf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.1.0_82c73490a009b602918be42ba9a5a609d0a40c87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Library/Android/sdk/build-tools/27.0.1/renderscript/lib/renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="215805fbe923c9b192d4a9a3d13a07c7fc1d3f53">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_24e35e691bf9ad6c85383d223b5fc3558a927f17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/1a754fb341cb49e8b22df80495a4a7265152d195/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -183,10 +273,46 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_e61c447e3db50618f14408cc93f436ba736e6650/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/ba8e658d3210aec2a8ba8f91e94b056c71c9491e/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
+        sha1="aa5161f8b81b112076f2d35b89498965550970e2">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1506281de6d65794b16a0263d99dff367f8be7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/94c43878ee8f785de2a42cf6787266cf9c817fcf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="18e3777df86177870625dce816292aecc871dc43">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f07551b53c1a1a0f51d02b4ceb6fa5180f19c12b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/8e829223b02c4953d46694f7c08aa9c137ae44d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="206dc17e8201683d26c371c3b48e42a6f68d0db7">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb41af1f6a5718cae741bbd7005546284f3e867d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/ba8e658d3210aec2a8ba8f91e94b056c71c9491e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
         sha1="aa5161f8b81b112076f2d35b89498965550970e2">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1506281de6d65794b16a0263d99dff367f8be7e/classes.dex" />
     </item>
@@ -198,6 +324,51 @@
         revision="25.0.3"
         sha1="18e3777df86177870625dce816292aecc871dc43">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f07551b53c1a1a0f51d02b4ceb6fa5180f19c12b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/9401cbfc6a6bf83787779131601a62fd8294093c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="67fc961d875e770ba5f9a4f4573d5b257c06424a">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9851bcaede1664ca49ea3e9fdbd2acb7c91c53a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/7345f67299906e215f7f685645a393d62e58351f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf08819f94d1699844d6de7108b4ad17c24ed1bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/0975b08071ce4a0e8374d6e11ac545ae812ddb66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dff3b2038df309fd7e6048460ca5ca96db9b92bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/5131462767808b475d3258fc31bb120fddb50c5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a8f26450049cd643540e57409a5c9dde0ffd9e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Documents/naam project/haam/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_13c5a05a1793a9b544a8c53b016be5a3d7e7481a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -228,12 +399,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/c66207584b565898545bd7aa88e50abfcb0bc0e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa800a05c9b00fa9fa5933a12319770273e48c38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_aded4d503be48ff9a58d8ef924b75bc3b358129b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/Documents/naam project/haam/app/libs/YouTubeAndroidPlayerApi.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
         sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_13c5a05a1793a9b544a8c53b016be5a3d7e7481a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/e5607e87df846387c84ed4af756feeddcb76d855/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="428d38169e58cef7cfcac5776135a82cc9f6735e">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_262ca9ab8ca0f620376953b43f0246b75d5423a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/ce45c72301fa10388365f19a6be0a142768fcd55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40c4a2340b0b4da8524517b5684df8d8d9e8a7d1/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -255,6 +462,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/1cecc8564a35633ebb88f3f76e342ca9f60c3a86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7edf6db4e4e673ee210c68bc16f0ac01b3153e81">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffe09236a4ee4696064a96c67db1ecbaabfe1940/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
         jumboMode="false"
         optimize="true"
@@ -264,12 +480,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/d919b7ee768aa4c43ae3fe247e3b68080f693549/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e0e8c5486f060d5a2375256ebca012fe04047267">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20384d12385f913d6797b95ae7f13ee18acfb7d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/c0d65dc1c57129ef42606fcf9534a65af4342167/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f41dd6f2aa3ec1c8f7b86da09bf523338d38e8de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_18c9c0f7a47959d7113406fac53154a0795c3f61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/8ad9d1c5075c37fbe1297bb9f3fb722788dafe3d/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
         sha1="16f186a432ab801268bee4a20c038c9fa35a2901">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df4b42d2b6011323753cfd07f7a3e25479790f38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/f8bb17159afb50199950d623ad34dbef8c383dce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="461929440e66685425a298693507f6fb27b0a872">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bfb45e10ad8851e5954c5192c47af060af93e62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-android/1.7.21/f4f6a07c00f3996d8db58c85a3d73377b40611eb/slf4j-android-1.7.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f4f6a07c00f3996d8db58c85a3d73377b40611eb">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-android-1.7.21_1b518a7b379d21536f3f8ff8a66a3fa193f5502b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -300,12 +561,66 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/bc926b6a1f7eb92952f4946eb06a79e207f13d8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33d1e4ce2961219f88d126f29b2f4a8558db9516/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/d5266fd92f95ac9e940d4c3427b6e4cbf7cdad33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="263d4b3cb11781467a6fa04450b1a72727c541f3">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c5736d4c200df0c15d37f537f53191133909a24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/46ba32950a4e395c8f41978401e0727682bb9d64/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
         sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3740261f2c06d0e9ce61678edc9182871039c63e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/fd5bc880013ccc2db9aa4c3eda5e944fcd9ea460/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ca9d624ca4befb940eb5482188552d4a0a6fc30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/ee9eaeef5fd533704a2c2e81806aa9fd368f300e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7be36f0df9c9c4352182c9a3265bd0156d32a43">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_370da80ae4c4c9cd845423783632c3fe3f541a5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_998ce8c22a1aaaf6287230a79a5099bc0f3e730b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/ba8e658d3210aec2a8ba8f91e94b056c71c9491e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa5161f8b81b112076f2d35b89498965550970e2">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1506281de6d65794b16a0263d99dff367f8be7e/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -336,6 +651,42 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/461cac5ccf8bd2b71fd6d1c49de460e47967ef90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93044d0952ead29dfdc75e659b9249a8a23103e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/15304bd268f489120725d21bcc03a741b14b552e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="204f607419af8247cc1b2a61f50663c65f841c12">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9046613c0826629b2fbfe2ee83efda0c124f9c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/3ac3accc23e6ab4e98632b036443725a39ff62cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32ad523af84944ea9eb9885d766fc34c66d43377/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.21_3b328b84a9b3a9b948fa40b2460c6f09a9b115d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/f762c2cf5d53107e34ed04162ec8680234a61189/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -345,12 +696,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/19911479e8cb73d679003ab32f70160c980de534/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fba4fe02a4ea786ef5f2e78fcbd8f51d999ad767">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c51bde9df3eeaa59c10770c35ef9bee1e2b3ff4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/d13e3cb60bd4c47e2d9d80a1963044ded0c6cc97/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
         sha1="668473027f40fa0cdd5b2db78ba02d676ffd3a2b">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bcc71296e555f2f9e862a65766e07a946bdabea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/ce45c72301fa10388365f19a6be0a142768fcd55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40c4a2340b0b4da8524517b5684df8d8d9e8a7d1/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -372,6 +741,33 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/d1dacf96727fcf0c7e6a324de82ec60100193940/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b987c32587e5ca1175533a3edd81f6c53236eeca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_18c9c0f7a47959d7113406fac53154a0795c3f61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/d14d3cf217cc8388a51b3f102ae90879eacb65bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="87f08f735a579d9a5924cb515f2d6b76f5ca3531">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_592dc31078584bb9d4e71813496e0b7f2965ab80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/361cba471dbffb1dd12e08af4691c52ff6951bac/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -381,12 +777,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/c6ce906c0bc5083f8695c92512cdfbe57741c12f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="07ce024be0a1c178d857ec2fe55a99011c2ff7a2">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d935b5456b8a461e11a1a3c24e5a3b160e0fdaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/1a754fb341cb49e8b22df80495a4a7265152d195/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="f2ce37ca3af00f3c2fe692c9a911617a6d5f501b">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9d060a0a0f79286f96c16ee7e6049b9bde30ccf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/14d70059c511949fba384019608f85e4fae253d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fe3a72bee9f9eda45a5940a278fd9c1979b14a37">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46b51847d0239ff6a8171d9b426d4b4a7fb2845f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/46ba32950a4e395c8f41978401e0727682bb9d64/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3740261f2c06d0e9ce61678edc9182871039c63e/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -408,12 +831,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/mac/.android/build-cache/03617abd2ddac2a4e29a7ffa0ba6cf4c4fd8177c/output/jars/libs/library-core.jar"
+        jar="/Users/mac/.android/build-cache/07467f4ddfe28747cdf77cb323e3525a8a523af9/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
-        sha1="0dfc421497e4e5ff7aeb23b1c41bf6c1cfcdfc44">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-core_e751f9da1e0d63a3a185749f741f52fc407e6a56/classes.dex" />
+        sha1="9b7d070f3024fde0cb59e6358f44e6c076025426">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6895388eb1585263146fe9cfc7f920e58317671/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/db75cdc1a0082f785dc07a4dce6ef4fad85eb45d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d9a09584e04eb95d247f251d5d498eb57fcf6e41">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6c97b96a8816dfa2f2fb138dc4f7822db3af0c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/e00ff6a9da352e48b4a99788fcf14e9a1821f7f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_160fe8d667098b47714f39c2abecfd906dcf8918/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -435,12 +876,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/535207d6d8ce46e044465d7723b9b38255992fbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="005d20a198159b87f65812fc5c51b2d84c5eba0a">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d96be51b75da5316f490c456be785fdda9a61dcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_9499bc38c172538bae06bd65c9f455636cdde92a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/01a7154991af151d5589da44aebde77d8d238555/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f4055111819ae2273ed51546d9badddbe4a1f0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/c423f355c08795febbae669360a5a5ea369915de/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
         sha1="4e7ca65463655d11456435e37fba9500c070d05e">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d32fa92847e88030c2506ef44a985f740f91cf0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/e02b54f315b06908f43300017dbf6672d0e7871c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99ffb282bc5b9994f655d8b2feda2592ea4abd47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/60fac4699d40e7db2a1c6c9a305e4845316b7e2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0370314fd6b7fddf113e5e336b04a51fa6d393c/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -462,12 +948,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/d9d3720cc2fa84ba30c25518523fb42536d5b0f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4b7dbd963f54ff7b600c647d14ca381f110d9c9a">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9c5c854caaa2c42ee372213c898fa2cebf77e36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/dca33ff811c1bedd64c3c908ad059d0087908634/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
         sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fab13db11a9d6901d2735e42fed73235942d174/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/89fd5ccb1f925ff726724349a710b5cb23eac358/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ecd0a96f6bda796eeffafb066a93c84163b72234">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0af11044c6699c83b3b09bfb599532e4850a218/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -534,705 +1038,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/097b1e5b186c027beaf6740175ce2080a1b404ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4814b2e1515e46aed0a48174fd915542f7ef42fb">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_064c49a8d1274a75b4c1a3a4185f4f335a449d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/82f28562ba826fb826ea34ba040a174b85069d27/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
         sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e11e4f33af000c01b3701f6664d5d403cb71041/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/205cbbb758882d2b7b47adce3eb445bb1912a663/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79aae9b611659b4a2495ae959592192b27b2f072/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_fcd7bf57330797c3eaeb05d042207c4ab7ecac63/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/39a4a428aa3519e99441596a68e219eeedd8768b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="fa7c91f0a2b43f8d9fa001e3d04e2d600f24cc68">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5477f43683d2974ebdbf2303849f372fcab917c0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_e61c447e3db50618f14408cc93f436ba736e6650/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/fc559e612a18db12ae04b6aa18414be506fefce9/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="213a75f93fa2961a4c69566ef3c9a365c70a8693">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0c912ca8eaaf2f6e56efaca4aa197bb334e5433/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/2f46ddd15e6f285a2b60764a8d3853841e8a37b3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="c86b9ff3ff60aa61ee5a9116c3c06a533ff324c9">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2566fc518b4e86358053c205f1f7157f96d8ba7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/c1e466aa4be9a3aa5c1f496ee44bcbac720c8bce/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="7045152f3bd1870740b9bcb1cddff495e189774e">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_819261c08cdee9abd629e98763ca14517bea2487/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/Documents/naam project/haam/app/libs/YouTubeAndroidPlayerApi.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_13c5a05a1793a9b544a8c53b016be5a3d7e7481a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/40acf9d15edfd3700a81bbf588047542100375f3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f9ab5b9b5cf02fe816aad80b59ea861a435a769/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/46ba32950a4e395c8f41978401e0727682bb9d64/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3740261f2c06d0e9ce61678edc9182871039c63e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/706ddf9a0ef32abfa885a37017bdfb9113636078/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f145e09160ed0b65763be70fe50d11b13d5d4b8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/94c43878ee8f785de2a42cf6787266cf9c817fcf/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="18e3777df86177870625dce816292aecc871dc43">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f07551b53c1a1a0f51d02b4ceb6fa5180f19c12b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/535207d6d8ce46e044465d7723b9b38255992fbc/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="005d20a198159b87f65812fc5c51b2d84c5eba0a">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d96be51b75da5316f490c456be785fdda9a61dcc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_18c9c0f7a47959d7113406fac53154a0795c3f61/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_aded4d503be48ff9a58d8ef924b75bc3b358129b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.21_3b328b84a9b3a9b948fa40b2460c6f09a9b115d2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/03617abd2ddac2a4e29a7ffa0ba6cf4c4fd8177c/output/jars/libs/library-hls.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="26b064f0860452976952d6c3f0ada511824417a1">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-hls_e15e542b71c7880fa04682977eacb29a2dde008e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_7d63a34934f50c981100670d229a977a7321631b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/ce45c72301fa10388365f19a6be0a142768fcd55/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40c4a2340b0b4da8524517b5684df8d8d9e8a7d1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/af78d52fec768b092849b8122679951af25f8bd1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2484f76082468cedf95a3508a6d416aa049ecf41/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/8627684ee0e8c4f95b6b04defb64606ea2831a4a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53da0606bceae0f7f5df5d33a410d48ae9957981/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/364cfc082de092884340e6fde2354871f935c57b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="7912610ed96381c25c36d986eba422731b9641b6">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efdbe8217e22785750ba86f0a8f0eae092026589/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/7694fb542c311818bd71a17fae042528f918093b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f17d114ee87da06c2bfe9ba0b32e49413e186293/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/5faa1e80f9e8f342d6ebdeaa4b6515da1ad871cc/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="c44026185adf61f12630db36ac6781481f559e7c">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb0709fa8456e59e32864d3325a0ff9197d8546e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/f7c9202cd12896a32ea0ee2a03963a96d15ff0b5/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bcb716303abee870dbb06af2d141c8ea6c280db4">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b76327d43654ab83133939bdae0972c5c624a13/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/f016aa7173404b966a23ac7cc1f97640efecb0a5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbaa152983c8170b15e87c7bb956209015a34007/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/c1e466aa4be9a3aa5c1f496ee44bcbac720c8bce/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="7045152f3bd1870740b9bcb1cddff495e189774e">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_819261c08cdee9abd629e98763ca14517bea2487/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/Documents/naam project/haam/app/libs/volley.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_e01370ef3cda9aa9df3ccb2d60d875c25d2cdb8c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/ae0a3b90c476719a425d09eab0fd54f2451f7e49/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2cd8a383c1ec207804d9af05254de2b4c1703ed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/1a754fb341cb49e8b22df80495a4a7265152d195/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f2ce37ca3af00f3c2fe692c9a911617a6d5f501b">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9d060a0a0f79286f96c16ee7e6049b9bde30ccf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.1.0_82c73490a009b602918be42ba9a5a609d0a40c87/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/Library/Android/sdk/build-tools/27.0.1/renderscript/lib/renderscript-v8.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="215805fbe923c9b192d4a9a3d13a07c7fc1d3f53">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_24e35e691bf9ad6c85383d223b5fc3558a927f17/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_e61c447e3db50618f14408cc93f436ba736e6650/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/94c43878ee8f785de2a42cf6787266cf9c817fcf/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="18e3777df86177870625dce816292aecc871dc43">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f07551b53c1a1a0f51d02b4ceb6fa5180f19c12b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/ba8e658d3210aec2a8ba8f91e94b056c71c9491e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="aa5161f8b81b112076f2d35b89498965550970e2">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1506281de6d65794b16a0263d99dff367f8be7e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/9401cbfc6a6bf83787779131601a62fd8294093c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="67fc961d875e770ba5f9a4f4573d5b257c06424a">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9851bcaede1664ca49ea3e9fdbd2acb7c91c53a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/7345f67299906e215f7f685645a393d62e58351f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf08819f94d1699844d6de7108b4ad17c24ed1bf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/5131462767808b475d3258fc31bb120fddb50c5f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a8f26450049cd643540e57409a5c9dde0ffd9e5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/Documents/naam project/haam/app/libs/YouTubeAndroidPlayerApi.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_13c5a05a1793a9b544a8c53b016be5a3d7e7481a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/c66207584b565898545bd7aa88e50abfcb0bc0e1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa800a05c9b00fa9fa5933a12319770273e48c38/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_aded4d503be48ff9a58d8ef924b75bc3b358129b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/e5607e87df846387c84ed4af756feeddcb76d855/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="428d38169e58cef7cfcac5776135a82cc9f6735e">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_262ca9ab8ca0f620376953b43f0246b75d5423a6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/ce45c72301fa10388365f19a6be0a142768fcd55/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40c4a2340b0b4da8524517b5684df8d8d9e8a7d1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/1cecc8564a35633ebb88f3f76e342ca9f60c3a86/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="7edf6db4e4e673ee210c68bc16f0ac01b3153e81">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffe09236a4ee4696064a96c67db1ecbaabfe1940/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/c0d65dc1c57129ef42606fcf9534a65af4342167/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f41dd6f2aa3ec1c8f7b86da09bf523338d38e8de/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_18c9c0f7a47959d7113406fac53154a0795c3f61/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/f8bb17159afb50199950d623ad34dbef8c383dce/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="461929440e66685425a298693507f6fb27b0a872">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bfb45e10ad8851e5954c5192c47af060af93e62/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-android/1.7.21/f4f6a07c00f3996d8db58c85a3d73377b40611eb/slf4j-android-1.7.21.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="f4f6a07c00f3996d8db58c85a3d73377b40611eb">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-android-1.7.21_1b518a7b379d21536f3f8ff8a66a3fa193f5502b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/bc926b6a1f7eb92952f4946eb06a79e207f13d8d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33d1e4ce2961219f88d126f29b2f4a8558db9516/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/d5266fd92f95ac9e940d4c3427b6e4cbf7cdad33/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="263d4b3cb11781467a6fa04450b1a72727c541f3">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c5736d4c200df0c15d37f537f53191133909a24/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/fd5bc880013ccc2db9aa4c3eda5e944fcd9ea460/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ca9d624ca4befb940eb5482188552d4a0a6fc30/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_998ce8c22a1aaaf6287230a79a5099bc0f3e730b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/ba8e658d3210aec2a8ba8f91e94b056c71c9491e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="aa5161f8b81b112076f2d35b89498965550970e2">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1506281de6d65794b16a0263d99dff367f8be7e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/461cac5ccf8bd2b71fd6d1c49de460e47967ef90/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93044d0952ead29dfdc75e659b9249a8a23103e6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/15304bd268f489120725d21bcc03a741b14b552e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="204f607419af8247cc1b2a61f50663c65f841c12">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9046613c0826629b2fbfe2ee83efda0c124f9c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/3ac3accc23e6ab4e98632b036443725a39ff62cb/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32ad523af84944ea9eb9885d766fc34c66d43377/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.21_3b328b84a9b3a9b948fa40b2460c6f09a9b115d2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/19911479e8cb73d679003ab32f70160c980de534/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="fba4fe02a4ea786ef5f2e78fcbd8f51d999ad767">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c51bde9df3eeaa59c10770c35ef9bee1e2b3ff4f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/ce45c72301fa10388365f19a6be0a142768fcd55/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40c4a2340b0b4da8524517b5684df8d8d9e8a7d1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/03617abd2ddac2a4e29a7ffa0ba6cf4c4fd8177c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="48aa51c10c267c9be054c74381980fe061e3a396">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9efe50b053a9b6c88fb2fece1ac700ed76f5270a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/d1dacf96727fcf0c7e6a324de82ec60100193940/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b987c32587e5ca1175533a3edd81f6c53236eeca/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_18c9c0f7a47959d7113406fac53154a0795c3f61/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/d14d3cf217cc8388a51b3f102ae90879eacb65bc/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="87f08f735a579d9a5924cb515f2d6b76f5ca3531">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_592dc31078584bb9d4e71813496e0b7f2965ab80/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/c6ce906c0bc5083f8695c92512cdfbe57741c12f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="07ce024be0a1c178d857ec2fe55a99011c2ff7a2">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d935b5456b8a461e11a1a3c24e5a3b160e0fdaf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/03617abd2ddac2a4e29a7ffa0ba6cf4c4fd8177c/output/jars/libs/library-dash.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="9f4b0d843a0fbdf8c4c7a0506cb78dc8ffe64b54">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-dash_5f09063755c377e6671469d2196e56d2f01fc84b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/14d70059c511949fba384019608f85e4fae253d9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="fe3a72bee9f9eda45a5940a278fd9c1979b14a37">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46b51847d0239ff6a8171d9b426d4b4a7fb2845f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/46ba32950a4e395c8f41978401e0727682bb9d64/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3740261f2c06d0e9ce61678edc9182871039c63e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/07467f4ddfe28747cdf77cb323e3525a8a523af9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="9b7d070f3024fde0cb59e6358f44e6c076025426">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6895388eb1585263146fe9cfc7f920e58317671/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/db75cdc1a0082f785dc07a4dce6ef4fad85eb45d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="d9a09584e04eb95d247f251d5d498eb57fcf6e41">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6c97b96a8816dfa2f2fb138dc4f7822db3af0c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/e00ff6a9da352e48b4a99788fcf14e9a1821f7f1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_160fe8d667098b47714f39c2abecfd906dcf8918/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/535207d6d8ce46e044465d7723b9b38255992fbc/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="005d20a198159b87f65812fc5c51b2d84c5eba0a">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d96be51b75da5316f490c456be785fdda9a61dcc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_9499bc38c172538bae06bd65c9f455636cdde92a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/01a7154991af151d5589da44aebde77d8d238555/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f4055111819ae2273ed51546d9badddbe4a1f0a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/e02b54f315b06908f43300017dbf6672d0e7871c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99ffb282bc5b9994f655d8b2feda2592ea4abd47/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/60fac4699d40e7db2a1c6c9a305e4845316b7e2a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0370314fd6b7fddf113e5e336b04a51fa6d393c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/d9d3720cc2fa84ba30c25518523fb42536d5b0f3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="4b7dbd963f54ff7b600c647d14ca381f110d9c9a">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9c5c854caaa2c42ee372213c898fa2cebf77e36/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/.android/build-cache/89fd5ccb1f925ff726724349a710b5cb23eac358/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="ecd0a96f6bda796eeffafb066a93c84163b72234">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0af11044c6699c83b3b09bfb599532e4850a218/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1254,6 +1074,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/205cbbb758882d2b7b47adce3eb445bb1912a663/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79aae9b611659b4a2495ae959592192b27b2f072/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
         jumboMode="true"
         optimize="true"
@@ -1269,6 +1098,15 @@
         revision="27.0.1"
         sha1="cf42968b00f665dae552206e33705877b949b333">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_369c7e241b5656ca62eb3c27d1a925fef7c1147a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_fcd7bf57330797c3eaeb05d042207c4ab7ecac63/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1308,21 +1146,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/mac/.android/build-cache/03617abd2ddac2a4e29a7ffa0ba6cf4c4fd8177c/output/jars/libs/library-smoothstreaming.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="f8eb27dd36309653fd2fc2721fd72c8a3799d69b">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-smoothstreaming_55b7d96baa4ce04f6b3b185d8b772df7b63cf073/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/mac/.android/build-cache/d741672cbfbf8bc029d15d8d060d74035eb381e1/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
         sha1="6f209b73a488f358673f39317df394bd7a99c05e">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3714e9eeb6055cab6ed74e5d52635864673d738/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/39a4a428aa3519e99441596a68e219eeedd8768b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fa7c91f0a2b43f8d9fa001e3d04e2d600f24cc68">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5477f43683d2974ebdbf2303849f372fcab917c0/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1335,12 +1173,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/mac/.android/build-cache/f6ac7313cf79776e3ecfdcfc291f3d7186ffa491/output/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="true"
         optimize="true"
-        revision="27.0.1"
-        sha1="aaa73be1a8dac21ff7c05beea0d9888f75265c9a">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67bbe6278f791c9eedfe01bbcedf2723fb87ecdc/classes.dex" />
+        revision="25.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_e61c447e3db50618f14408cc93f436ba736e6650/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1389,6 +1227,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/fc559e612a18db12ae04b6aa18414be506fefce9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="213a75f93fa2961a4c69566ef3c9a365c70a8693">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0c912ca8eaaf2f6e56efaca4aa197bb334e5433/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/2f46ddd15e6f285a2b60764a8d3853841e8a37b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c86b9ff3ff60aa61ee5a9116c3c06a533ff324c9">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2566fc518b4e86358053c205f1f7157f96d8ba7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/01a7154991af151d5589da44aebde77d8d238555/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -1407,12 +1263,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/c1e466aa4be9a3aa5c1f496ee44bcbac720c8bce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7045152f3bd1870740b9bcb1cddff495e189774e">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_819261c08cdee9abd629e98763ca14517bea2487/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/d111358f4a11bd4aeb734692c6c49af1f3ba5272/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
         sha1="6fdbd1bd6503815f2cef20a9a137005e5953aad1">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3acdd4b607cb7741848c368e96b91dea95aa11cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Documents/naam project/haam/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_13c5a05a1793a9b544a8c53b016be5a3d7e7481a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/b16b87e89dce25d233a046465d4ab6b10dcbe9aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8c57f428f82d1accd3d84d9d7fcae183ed94297f">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e4884ef52d04c1751311038d1e7423af7115e2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/40acf9d15edfd3700a81bbf588047542100375f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f9ab5b9b5cf02fe816aad80b59ea861a435a769/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1434,12 +1326,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/46ba32950a4e395c8f41978401e0727682bb9d64/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3740261f2c06d0e9ce61678edc9182871039c63e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/.android/build-cache/7345f67299906e215f7f685645a393d62e58351f/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf08819f94d1699844d6de7108b4ad17c24ed1bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/706ddf9a0ef32abfa885a37017bdfb9113636078/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f145e09160ed0b65763be70fe50d11b13d5d4b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/94c43878ee8f785de2a42cf6787266cf9c817fcf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18e3777df86177870625dce816292aecc871dc43">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f07551b53c1a1a0f51d02b4ceb6fa5180f19c12b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1461,12 +1380,39 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/mac/.android/build-cache/03617abd2ddac2a4e29a7ffa0ba6cf4c4fd8177c/output/jars/libs/library-ui.jar"
+        jar="/Users/mac/.android/build-cache/535207d6d8ce46e044465d7723b9b38255992fbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="005d20a198159b87f65812fc5c51b2d84c5eba0a">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d96be51b75da5316f490c456be785fdda9a61dcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
-        sha1="250c1b88f87f3ed9f97600c2c8e6e988bd963514">
-        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-ui_ffa33c80b0298f279e4b484cd8609cd10a730cf1/classes.dex" />
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_18c9c0f7a47959d7113406fac53154a0795c3f61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_aded4d503be48ff9a58d8ef924b75bc3b358129b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.21_3b328b84a9b3a9b948fa40b2460c6f09a9b115d2/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1485,6 +1431,24 @@
         revision="27.0.1"
         sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba989045e4ba5d3a1b58d10037e961149af747d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_7d63a34934f50c981100670d229a977a7321631b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/ce45c72301fa10388365f19a6be0a142768fcd55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40c4a2340b0b4da8524517b5684df8d8d9e8a7d1/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1524,12 +1488,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/mac/.android/build-cache/af78d52fec768b092849b8122679951af25f8bd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2484f76082468cedf95a3508a6d416aa049ecf41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/8627684ee0e8c4f95b6b04defb64606ea2831a4a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53da0606bceae0f7f5df5d33a410d48ae9957981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac/Documents/naam project/haam/app/libs/KochavaSDK.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
         sha1="8f002e502a342fcfe724354a6f660d72bebae824">
         <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/2/KochavaSDK_4eb8a599649834842ce885d594bbcee22d16b5f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/364cfc082de092884340e6fde2354871f935c57b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/mac/Documents/naam project/haam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efdbe8217e22785750ba86f0a8f0eae092026589/classes.dex" />
     </item>
 
 </items>

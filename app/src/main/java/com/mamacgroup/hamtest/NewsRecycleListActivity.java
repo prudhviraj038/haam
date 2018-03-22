@@ -877,10 +877,10 @@ public class NewsRecycleListActivity extends BaseActivity implements
 
                 }else if(type.equals("tv")){
 
-                    Intent intent = new Intent(this, JWPlayerViewExample.class);
-                    intent.putExtra("jw_url", feed_id);
-                    intent.putExtra("name", name);
-                    startActivity(intent);
+                   // Intent intent = new Intent(this, JWPlayerViewExample.class);
+//                    intent.putExtra("jw_url", feed_id);
+//                    intent.putExtra("name", name);
+//                    startActivity(intent);
 
 
                 }

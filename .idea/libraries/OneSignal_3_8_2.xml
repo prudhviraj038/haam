@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="OneSignal-3.8.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/d14d3cf217cc8388a51b3f102ae90879eacb65bc/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/d14d3cf217cc8388a51b3f102ae90879eacb65bc/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

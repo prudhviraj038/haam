@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="exoplayer-dash-2.7.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/097b1e5b186c027beaf6740175ce2080a1b404ac/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/097b1e5b186c027beaf6740175ce2080a1b404ac/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

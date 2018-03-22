@@ -41,6 +41,7 @@ import com.google.android.exoplayer2.ExoPlayerFactory;
 import com.google.android.exoplayer2.LoadControl;
 import com.google.android.exoplayer2.PlaybackParameters;
 import com.google.android.exoplayer2.Player;
+import com.google.android.exoplayer2.Player.EventListener;
 import com.google.android.exoplayer2.SimpleExoPlayer;
 import com.google.android.exoplayer2.Timeline;
 //import com.google.android.exoplayer2.ext.okhttp.OkHttpDataSourceFactory;
@@ -134,7 +135,7 @@ public class VideoPlayerActivity extends Activity implements GestureDetector.OnG
        // this.requestWindowFeature(Window.FEATURE_NO_TITLE); //Remove title bar
         //this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN); //Remove notification bar
        // this.getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_HIDE_NAVIGATION);
-        Settings.settingsforceRTLIfSupported(this);
+        //Settings.settingsforceRTLIfSupported(this);
         setContentView(R.layout.haam_exovideodisplay);
 
         deleteCache(this);
@@ -325,11 +326,11 @@ public class VideoPlayerActivity extends Activity implements GestureDetector.OnG
                     ActivityOptions options = ActivityOptions.makeCustomAnimation(VideoPlayerActivity.this, R.anim.enter_from_down, R.anim.exit_to_up);
                     startActivity(intent, options.toBundle());
                 }else if(!newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).m3u8_url.equals("")){
-                    Intent intent=new Intent(VideoPlayerActivity.this,JWPlayerViewExample.class);
-                    intent.putExtra("jw_url", newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).m3u8_url);
-                    intent.putExtra("name", newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).title);
-                    ActivityOptions options = ActivityOptions.makeCustomAnimation(VideoPlayerActivity.this, R.anim.enter_from_down, R.anim.exit_to_up);
-                    startActivity(intent, options.toBundle());
+//                    Intent intent=new Intent(VideoPlayerActivity.this,JWPlayerViewExample.class);
+//                    intent.putExtra("jw_url", newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).m3u8_url);
+//                    intent.putExtra("name", newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).title);
+//                    ActivityOptions options = ActivityOptions.makeCustomAnimation(VideoPlayerActivity.this, R.anim.enter_from_down, R.anim.exit_to_up);
+//                    startActivity(intent, options.toBundle());
                 }else if(!newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).video_script.equals("")){
                     Intent intent=new Intent(VideoPlayerActivity.this,VideoPlayerActivityMain.class);
                     intent.putExtra("video",newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).video_script);
@@ -679,113 +680,113 @@ public class VideoPlayerActivity extends Activity implements GestureDetector.OnG
             SimpleExoPlayer player = ExoPlayerFactory.newSimpleInstance(this, trackSelector);
             player.setPlayWhenReady(false);
             final int finalI = i;
-            player.addListener(new Player.EventListener() {
-                                   @Override
-                                   public void onTimelineChanged(Timeline timeline, Object manifest) {
-
-                                   }
-
-                                   @Override
-                                   public void onTracksChanged(TrackGroupArray trackGroups, TrackSelectionArray trackSelections) {
-
-                                   }
-
-                                   @Override
-                                   public void onLoadingChanged(boolean isLoading) {
-
-                                   }
-
-                                   @Override
-                                   public void onPlayerStateChanged(boolean playWhenReady, int playbackState) {
-
-                                       if (playbackState == ExoPlayer.STATE_ENDED) {
-
-
-                                           current_video++;
-
-                                           if (current_video < newses.size()) {
-                                               Log.e("next", "video");
-                                               next_video();
-                                           } else {
-                                               current_video--;
-                                               finish();
-                                           }
-                                       }
-
-                                       if (playbackState == ExoPlayer.STATE_BUFFERING) {
-                                           pd_tv.setVisibility(View.VISIBLE);
-
-                                           h.postDelayed(r, 1000);
-//                        pd.setVisibility(View.VISIBLE);
-
-                                       } else {
-                                           h.removeCallbacks(r);
-                                           if (newses.size() > 0 && act.equals("cat")) {
-                                               if (!AppController.getInstance().news_viewed.contains(newses.get(current_video).id)) {
-                                                   AppController.getInstance().news_viewed.add(newses.get(current_video).id);
-                                                   try {
-                                                       if (current_video + 1 < newses.size() && !AppController.getInstance().cat_images.getString(newses.get(current_video + 1).cat_id).equals("0")) {
-                                                           Log.e("cat_id", newses.get(current_video + 1).cat_id);
-                                                           AppController.getInstance().cat_images.put(newses.get(current_video + 1).cat_id, newses.get(current_video + 1).image);
-                                                           AppController.getInstance().cat_des.put(newses.get(current_video + 1).cat_id, newses.get(current_video + 1).about);
-                                                       } else {
-                                                           AppController.getInstance().cat_images.put(newses.get(current_video).cat_id, "0");
-                                                           AppController.getInstance().cat_des.put(newses.get(current_video).cat_id, "0");
-                                                       }
-                                                   } catch (JSONException e) {
-
-                                                   }
-                                               }
-
-                                           }
-                                           pd.setVisibility(View.GONE);
-                                           pd_tv.setVisibility(View.GONE);
-
-                                       }
-
-                                   }
-
-                                   @Override
-                                   public void onRepeatModeChanged(int i) {
-
-                                   }
-
-                                   @Override
-                                   public void onShuffleModeEnabledChanged(boolean b) {
-
-                                   }
-
-                                   @Override
-                                   public void onPlayerError(ExoPlaybackException error) {
-                                       Log.e("player error", error.toString());
-//                                           if(finalI<sources.size()) {
-//                                               sources.remove(finalI);
-//                                               next.performClick();
-//                                           }
-
-                                   }
-
-                                   @Override
-                                   public void onPositionDiscontinuity(int i) {
-
-                                   }
-
+//            player.addListener(new EventListener() {
 //                                   @Override
-//                                   public void onPositionDiscontinuity() {
+//                                   public void onTimelineChanged(Timeline timeline, Object manifest) {
 //
 //                                   }
-
-                                   @Override
-                                   public void onPlaybackParametersChanged(PlaybackParameters playbackParameters) {
-
-                                   }
-
-                                   @Override
-                                   public void onSeekProcessed() {
-
-                                   }
-                               }
-            );
+//
+//                                   @Override
+//                                   public void onTracksChanged(TrackGroupArray trackGroups, TrackSelectionArray trackSelections) {
+//
+//                                   }
+//
+//                                   @Override
+//                                   public void onLoadingChanged(boolean isLoading) {
+//
+//                                   }
+//
+//                                   @Override
+//                                   public void onPlayerStateChanged(boolean playWhenReady, int playbackState) {
+//
+//                                       if (playbackState == ExoPlayer.STATE_ENDED) {
+//
+//
+//                                           current_video++;
+//
+//                                           if (current_video < newses.size()) {
+//                                               Log.e("next", "video");
+//                                               next_video();
+//                                           } else {
+//                                               current_video--;
+//                                               finish();
+//                                           }
+//                                       }
+//
+//                                       if (playbackState == ExoPlayer.STATE_BUFFERING) {
+//                                           pd_tv.setVisibility(View.VISIBLE);
+//
+//                                           h.postDelayed(r, 1000);
+////                        pd.setVisibility(View.VISIBLE);
+//
+//                                       } else {
+//                                           h.removeCallbacks(r);
+//                                           if (newses.size() > 0 && act.equals("cat")) {
+//                                               if (!AppController.getInstance().news_viewed.contains(newses.get(current_video).id)) {
+//                                                   AppController.getInstance().news_viewed.add(newses.get(current_video).id);
+//                                                   try {
+//                                                       if (current_video + 1 < newses.size() && !AppController.getInstance().cat_images.getString(newses.get(current_video + 1).cat_id).equals("0")) {
+//                                                           Log.e("cat_id", newses.get(current_video + 1).cat_id);
+//                                                           AppController.getInstance().cat_images.put(newses.get(current_video + 1).cat_id, newses.get(current_video + 1).image);
+//                                                           AppController.getInstance().cat_des.put(newses.get(current_video + 1).cat_id, newses.get(current_video + 1).about);
+//                                                       } else {
+//                                                           AppController.getInstance().cat_images.put(newses.get(current_video).cat_id, "0");
+//                                                           AppController.getInstance().cat_des.put(newses.get(current_video).cat_id, "0");
+//                                                       }
+//                                                   } catch (JSONException e) {
+//
+//                                                   }
+//                                               }
+//
+//                                           }
+//                                           pd.setVisibility(View.GONE);
+//                                           pd_tv.setVisibility(View.GONE);
+//
+//                                       }
+//
+//                                   }
+//
+//                                   @Override
+//                                   public void onRepeatModeChanged(int i) {
+//
+//                                   }
+//
+//                                   @Override
+//                                   public void onShuffleModeEnabledChanged(boolean b) {
+//
+//                                   }
+//
+//                                   @Override
+//                                   public void onPlayerError(ExoPlaybackException error) {
+//                                       Log.e("player error", error.toString());
+////                                           if(finalI<sources.size()) {
+////                                               sources.remove(finalI);
+////                                               next.performClick();
+////                                           }
+//
+//                                   }
+//
+//                                   @Override
+//                                   public void onPositionDiscontinuity(int i) {
+//
+//                                   }
+//
+////                                   @Override
+////                                   public void onPositionDiscontinuity() {
+////
+////                                   }
+//
+//                                   @Override
+//                                   public void onPlaybackParametersChanged(PlaybackParameters playbackParameters) {
+//
+//                                   }
+//
+//                                   @Override
+//                                   public void onSeekProcessed() {
+//
+//                                   }
+//                               }
+//            );
             Log.e("news_url", newses.get(i).video_script);
             player.prepare(newVideoSource(newses.get(i).small_video));
             sources.clear();
@@ -957,11 +958,11 @@ public class VideoPlayerActivity extends Activity implements GestureDetector.OnG
                 ActivityOptions options = ActivityOptions.makeCustomAnimation(VideoPlayerActivity.this, R.anim.enter_from_down, R.anim.exit_to_up);
                 startActivity(intent, options.toBundle());
             }else if(!newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).m3u8_url.equals("")){
-                Intent intent=new Intent(VideoPlayerActivity.this,JWPlayerViewExample.class);
-                intent.putExtra("jw_url", newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).m3u8_url);
-                intent.putExtra("name", newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).title);
-                ActivityOptions options = ActivityOptions.makeCustomAnimation(VideoPlayerActivity.this, R.anim.enter_from_down, R.anim.exit_to_up);
-                startActivity(intent, options.toBundle());
+//                Intent intent=new Intent(VideoPlayerActivity.this,JWPlayerViewExample.class);
+//                intent.putExtra("jw_url", newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).m3u8_url);
+//                intent.putExtra("name", newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).title);
+//                ActivityOptions options = ActivityOptions.makeCustomAnimation(VideoPlayerActivity.this, R.anim.enter_from_down, R.anim.exit_to_up);
+//                startActivity(intent, options.toBundle());
             }else if(!newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).video_script.equals("")){
                 Intent intent=new Intent(VideoPlayerActivity.this,VideoPlayerActivityMain.class);
                 intent.putExtra("video",newses.get(Integer.parseInt(Settings.getWishid(VideoPlayerActivity.this))).video_script);

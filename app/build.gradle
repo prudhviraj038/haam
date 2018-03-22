@@ -2,8 +2,6 @@
 apply plugin: 'com.android.application'
 
 
-
-
 android {
 
     compileSdkVersion 27
@@ -63,8 +61,15 @@ dependencies {
                 transitive = true;
 
             }
-//    compile 'com.github.rtoshiro.fullscreenvideoview:fullscreenvideoview:1.1.2'
-    // compile 'com.google.android.exoplayer:exoplayer:r2.5.4'
+//    compile 'com.github.rtoshiro.fullscreenvideoview:fullscreenvideoview:1.1.2'\
+
+     compile ('com.google.android.exoplayer:exoplayer:2.7.1')
+             {
+                 force true
+                 transitive = true;
+
+             }
+
     //compile 'com.google.android.exoplayer:extension-okhttp:r2.5.4'
     compile ('com.squareup.picasso:picasso:2.5.2')
             {
@@ -108,18 +113,15 @@ dependencies {
                 transitive = true;
 
             }
-    compile ('com.longtailvideo.jwplayer:jwplayer-core:+')
-            {
-                force true
-                transitive = true;
+   // compile 'com.longtailvideo.jwplayer:jwplayer-core:+'
 
-            }
-    compile ('com.longtailvideo.jwplayer:jwplayer-common:+')
-            {
-                force true
-                transitive = true;
+//    compile ('com.longtailvideo.jwplayer:jwplayer-common:+')
+//            {
+//                force true
+//                transitive = true;
+//
+//            }
 
-            }
     compile ('com.davemorrissey.labs:subsampling-scale-image-view:3.5.0')
             {
                 force true

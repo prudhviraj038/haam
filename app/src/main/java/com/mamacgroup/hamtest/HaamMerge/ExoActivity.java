@@ -16,6 +16,7 @@ import com.google.android.exoplayer2.ExoPlayer;
 import com.google.android.exoplayer2.ExoPlayerFactory;
 import com.google.android.exoplayer2.PlaybackParameters;
 import com.google.android.exoplayer2.Player;
+import com.google.android.exoplayer2.Player.EventListener;
 import com.google.android.exoplayer2.SimpleExoPlayer;
 import com.google.android.exoplayer2.Timeline;
 //import com.google.android.exoplayer2.ext.okhttp.OkHttpDataSourceFactory;
@@ -60,7 +61,10 @@ public class ExoActivity extends Activity implements  GestureDetector.OnGestureL
         super.onCreate(icicle);
         setContentView(R.layout.haam_exo_view);
         gestureDetector = new GestureDetector(this);
-        String temp=AppController.getProxy(ExoActivity.this).getProxyUrl(getIntent().getStringExtra("jw_url"));
+//        String temp=AppController.getProxy(ExoActivity.this).getProxyUrl(getIntent().getStringExtra("jw_url"));
+
+                String temp=AppController.getProxy(ExoActivity.this).getProxyUrl("http://techslides.com/demos/sample-videos/small.mp4");
+
         Uri video = Uri.parse(temp);
         rl=(RelativeLayout)findViewById(R.id.rl_exo_pl);
         ImageView im=(ImageView)findViewById(R.id.back_vsss_exo);
@@ -87,63 +91,79 @@ public class ExoActivity extends Activity implements  GestureDetector.OnGestureL
                 new DefaultTrackSelector(videoTrackSelectionFactory);
         player = ExoPlayerFactory.newSimpleInstance(this, trackSelector);
         player.setPlayWhenReady(true);
-        player.addListener(new Player.EventListener() {
-            @Override
-            public void onTimelineChanged(Timeline timeline, Object manifest) {
 
-            }
-
-            @Override
-            public void onTracksChanged(TrackGroupArray trackGroups, TrackSelectionArray trackSelections) {
-
-            }
-
-            @Override
-            public void onLoadingChanged(boolean isLoading) {
-
-            }
-
-            @Override
-            public void onPlayerStateChanged(boolean playWhenReady, int playbackState) {
-
-
-            }
-
-            @Override
-            public void onRepeatModeChanged(int i) {
-
-            }
-
-            @Override
-            public void onShuffleModeEnabledChanged(boolean b) {
-
-            }
-
-            @Override
-            public void onPlayerError(ExoPlaybackException error) {
-
-            }
-
-            @Override
-            public void onPositionDiscontinuity(int i) {
-
-            }
-
+//        player.addListener(new EventListener() {
 //            @Override
+//            public void onTimelineChanged(Timeline timeline, Object manifest) {
+//
+//            }
+//
+//            @Override
+//            public void onTracksChanged(TrackGroupArray trackGroups, TrackSelectionArray trackSelections) {
+//
+//            }
+//
+//            @Override
+//            public void onLoadingChanged(boolean isLoading) {
+//
+//            }
+//
+//            @Override
+//            public void onPlayerStateChanged(boolean playWhenReady, int playbackState) {
+//
+//
+//            }
+//
+//            @Override
+//            public void onRepeatModeChanged(int i) {
+//
+//            }
+//
+//            @Override
+//            public void onShuffleModeEnabledChanged(boolean b) {
+//
+//            }
+//
+//
+////            @Override
+////            public void onShuffleModeEnabledChanged(boolean b) {
+////
+////            }
+//
+//            @Override
+//            public void onPlayerError(ExoPlaybackException error) {
+//
+//            }
+//
+//            @Override
+//            public void onPositionDiscontinuity(int i) {
+//
+//            }
+//
+//
+////            @Override
+////            public void onPositionDiscontinuity(int i) {
+////
+////            }
+//
+//           // @Override
 //            public void onPositionDiscontinuity() {
 //
 //            }
+//
+//            @Override
+//            public void onPlaybackParametersChanged(PlaybackParameters playbackParameters) {
+//
+//            }
+//
+//            @Override
+//            public void onSeekProcessed() {
+//
+//            }
+//
+//
+//        });
 
-            @Override
-            public void onPlaybackParametersChanged(PlaybackParameters playbackParameters) {
-
-            }
-
-            @Override
-            public void onSeekProcessed() {
-
-            }
-        });
         simpleExoPlayerView.setPlayer(player);
         DefaultBandwidthMeter bandwidthMeter1 = new DefaultBandwidthMeter();
 // Produces DataSource instances through which media data is loaded.

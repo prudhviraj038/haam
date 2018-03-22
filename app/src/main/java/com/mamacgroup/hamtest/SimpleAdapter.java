@@ -138,10 +138,10 @@ public class SimpleAdapter extends RecyclerView.Adapter<SimpleAdapter.SimpleView
             intent.putExtra("name", chanel.get_ch_title(mContext));
             mContext.startActivity(intent);
         } else {
-            Intent intent = new Intent(mContext, JWPlayerViewExample.class);
-            intent.putExtra("jw_url", chanel.link);
-            intent.putExtra("name", chanel.get_ch_title(mContext));
-            mContext.startActivity(intent);
+//            Intent intent = new Intent(mContext, JWPlayerViewExample.class);
+//            intent.putExtra("jw_url", chanel.link);
+//            intent.putExtra("name", chanel.get_ch_title(mContext));
+//            mContext.startActivity(intent);
         }
     }
 }

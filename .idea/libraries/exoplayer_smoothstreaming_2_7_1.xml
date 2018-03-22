@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="exoplayer-smoothstreaming-2.7.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/b16b87e89dce25d233a046465d4ab6b10dcbe9aa/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b16b87e89dce25d233a046465d4ab6b10dcbe9aa/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

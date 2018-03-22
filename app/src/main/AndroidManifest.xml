@@ -157,18 +157,6 @@
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan">
         </activity>
-        <activity
-            android:name="com.mamacgroup.hamtest.JWPlayerActivity"
-            android:label="@string/app_name"
-            android:configChanges="orientation|keyboardHidden"
-            android:windowSoftInputMode="adjustPan">
-        </activity>
-        <activity
-            android:name="com.mamacgroup.hamtest.JWPlayerViewExample"
-            android:label="@string/app_name"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:windowSoftInputMode="adjustPan">
-        </activity>
 
         <activity
             android:name="com.mamacgroup.hamtest.SlidingActivity"
@@ -220,7 +208,9 @@
             android:name=".HaamMerge.ExoActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait"
-            />
+            >
+
+        </activity>
         <activity
             android:name=".HaamMerge.ExoActivitytTest"
             android:label="@string/app_name"
@@ -344,6 +334,9 @@
                 <!--<action android:name="com.onesignal.NotificationExtender" />-->
             <!--</intent-filter>-->
         <!--</service>-->
+
+
+
         
     </application>
 
